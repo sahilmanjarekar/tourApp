@@ -1,16 +1,5 @@
-# final_project
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+The App name is 'Sindhudurg Tour'.i have developed this App for simplified tour for tourist.
+The App shows the Tour places best on user search area/location . the user will see the place name ,place details and place images 
+also user can give feedback to the place.
+one more addition term is this app also shows the bus time table in sindhudrg which will helps user to travel ,
+also the private vahicle owners contacts are available on this App.

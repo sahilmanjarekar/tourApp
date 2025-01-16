@@ -1,5 +1,9 @@
-The App name is 'Sindhudurg Tour'.i have developed this App for simplified tour for tourist.
-The App shows the Tour places best on user search area/location . the user will see the place name ,place details and place images 
-also user can give feedback to the place.
-one more addition term is this app also shows the bus time table in sindhudrg which will helps user to travel ,
-also the private vahicle owners contacts are available on this App.
+The app, named 'Sindhudurg Tour', is designed to simplify travel for tourists. It provides an easy and efficient way for users to explore the best tourist spots in Sindhudurg based on their search area or current location.
+
+Key features of the app include:
+
+Displaying place names, detailed descriptions, and images of tourist destinations.
+Allowing users to provide feedback on the places they visit.
+Providing a comprehensive bus timetable within Sindhudurg to assist users in planning their travel.
+Offering contact details of private vehicle owners, enabling users to arrange transportation conveniently.
+This app ensures a hassle-free travel experience, making it an essential tool for tourists exploring Sindhudurg.
